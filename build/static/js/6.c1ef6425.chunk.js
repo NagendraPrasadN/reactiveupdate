@@ -1,0 +1,2 @@
+(this["webpackJsonpreactive-update"]=this["webpackJsonpreactive-update"]||[]).push([[6],{54:function(t,e,n){t.exports={starting:"DashboardContent_starting__29CZW"}},69:function(t,e,n){"use strict";n.r(e);var s=n(54),c=n.n(s),a=n(0),i=function(){return Object(a.jsx)("section",{className:c.a.starting,children:Object(a.jsx)("h2",{children:"Welcome to Shopping"})})};e.default=function(){return Object(a.jsx)(i,{})}}}]);
+//# sourceMappingURL=6.c1ef6425.chunk.js.map
